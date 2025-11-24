@@ -1,0 +1,1 @@
+# insurance-award-checker
